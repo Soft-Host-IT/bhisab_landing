@@ -209,7 +209,7 @@ h2.title {
     vertical-align: middle;
 }
 .function-list .left-list {
-    color: var(--theme-green);
+    color: #044624;
 }
 .price-logo {
     position: relative;
